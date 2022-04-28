@@ -1,0 +1,15 @@
+.table {
+  margin: auto;
+}
+
+.head {
+  color: yellow;
+  background-color: gray;
+  padding: 20px;
+}
+
+.row {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
+}
